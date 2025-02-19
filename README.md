@@ -1,20 +1,39 @@
-👋 Hi! I'm Cristian Camilo Carvajal Hidalgo
-🔹 Software developer passionate about creating desktop applications and innovative solutions.
-🔹 Founder of Invent X Solutions, where I develop inventory systems and other technological tools.
+👋 Hi, I'm Cristian Camilo Carvajal Hidalgo
+
+
+  🔹 Passionate software developer specializing in desktop applications and innovative solutions.
+
+  🔹 Founder of Invent X Solutions, dedicated to building smart inventory systems and cutting-edge tech tools.
+
 
 🚀 Technologies & Tools
-💻 Languages: JavaScript, Java, SQL
-⚡ Frameworks: Electron, Node.js
-🗄️ Databases: MySQL, Firebase, MongoDB
-🛠 Others: Git, XAMPP
+
+
+  💻 Languages: JavaScript, Java, SQL
+
+  ⚡ Frameworks: Electron, Node.js
+
+  🗄️ Databases: MySQL, Firebase, MongoDB
+
+  🛠 Other Tools: Git, XAMPP
+
 
 📌 Featured Projects
-🔹 Inventory System – Desktop application with barcode scanner, MySQL connection, and product management.
-🔹 Web-Mobile Scanning Connection – Web page that allows a PC to connect with a mobile device to open the camera and scan barcodes.
 
-📫 Let's Talk!
-💼 Looking for opportunities in software development
-📧 Email: ccarvajal638@gmail.com
-🌐 LinkedIn | Portfolio
 
-⭐ Don't forget to follow me and check out my projects! 🚀
+  🔹 Inventory Management System – A desktop application with barcode scanning, MySQL integration, and advanced product tracking.
+
+  🔹 Web-Mobile Barcode Scanner – A web-based solution that connects a PC with a mobile device to enable seamless barcode scanning via the phone’s camera.
+
+
+📫 Let's Connect!
+
+
+  💼 Open to software development opportunities
+
+  📧 Email: ccarvajal638@gmail.com
+
+  🌐 Find me on: LinkedIn | Portfolio
+
+
+⭐ Follow me and explore my latest projects! 🚀
