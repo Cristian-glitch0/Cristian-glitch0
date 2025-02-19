@@ -1,29 +1,28 @@
-<div align="center">
-<h1 align="center">Hola, soyCristian 👋</h1>
-</div>
+### 👋 ¡Hola! Soy Cristian Camilo Carvajal Hidalgo  
+🔹 Desarrollador de software apasionado por la creación de aplicaciones de escritorio y soluciones innovadoras.  
+🔹 Fundador de *Invent X Solutions*, donde desarrollo sistemas de inventario y otras herramientas tecnológicas.  
 
+---
 
+### 🚀 Tecnologías y herramientas
+💻 *Lenguajes:* JavaScript, Java, SQL  
+⚡ *Frameworks:* Electron, Node.js  
+🗄️ *Bases de datos:* MySQL, Firebase, MongoDB
+🛠 *Otros:* Git, XAMPP  
 
+---
 
-## Sobre mi
+### 📌 Proyectos Destacados  
+🔹 *Sistema de Inventario* – Aplicación de escritorio con lector de códigos de barra, conexión a MySQL y gestión de productos.  
+🔹 *Conexión Web-Móvil para Escaneo* – Página web que permite conectar un PC con un celular para abrir la cámara y escanear códigos de barras.  
 
--⭐ GitHub Star
+---
 
--💻 Desarrollador Full Stack | Bases de Datos | Gestión de Inventarios
+### 📫 ¡Hablemos!
+💼 Buscando oportunidades en desarrollo de software  
+📧 *Email:* ccarvajal638@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Portafolio](https://tuportafolio.com)  
 
--🚀 Fundador de InventXsolution
+---
 
--📊 Optimizando procesos con tecnología
-
-<br>
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+⭐ *¡No olvides seguirme y revisar mis proyectos!* 🚀
